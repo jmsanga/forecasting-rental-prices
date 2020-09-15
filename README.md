@@ -1,4 +1,4 @@
-# forecastingrentalprices
+# Forecasting Rental Prices
 Py Nb to predict rental prices in Australia's neighbourhoods.
 
 Scope:¶
