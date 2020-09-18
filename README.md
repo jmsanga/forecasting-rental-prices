@@ -7,7 +7,7 @@ Scope:¶
 
 Data source: https://data.sa.gov.au/data/dataset/private-rent-report
 
-Stages of analysis
+### Stages of analysis
 1. Research about propery prices and rental prices evolution in Adelaide and other Australian capitals.
 2. Exploring available data and choosing an appropiate source.
 3. Exploring data selected and pre-processing
